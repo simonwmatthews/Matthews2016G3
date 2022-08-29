@@ -1,0 +1,78 @@
+FileName :   BH22_grain1.qtiDat 
+Signal(s) Used :  Na Ka, Al Ka, K  Ka, Cr Ka, Fe Ka, Mn Ka, Ni Ka, Si Ka, Mg Ka, Ca Ka, Ti Ka, P  Ka 
+Spectromers Conditions :   Sp1 LTAP,  Sp1 LTAP,  Sp3 LPET,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp4 TAP,  Sp4 TAP,  Sp2 PET,  Sp3 LPET,  Sp2 PET 
+Full Spectromers Conditions :   Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp2 PET(2d= 8.75,K= 0.000144) 
+Column Conditions :  Cond 1 : 15keV 40nA  
+Date :  13-Nov-2014 
+User Name :  sx 
+Setup Name :  Mathews_sp_7november2014.qtiSet 
+DataSet Comment :  BH22_grain1_profile1_sp 
+Comment :  BH22_grain1 
+Analysis Date :  10/11/2014 14:39:10 
+Project Name :  Simon Matthews 
+Sample Name :  10November 2014 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp1(Na Ka)	1301	2654	3	2008	2194	Inte	 
+  Sp1(Al Ka)	1301	2654	3	2008	2194	Inte	 
+  Sp3(K  Ka)	1892	1127	3	560	791	Inte	 
+  Sp5(Cr Ka)	1867	445	3	1007	399	Inte	 
+  Sp5(Fe Ka)	1867	445	3	1007	399	Inte	 
+  Sp5(Mn Ka)	1870	445	3	1007	399	Inte	 
+  Sp5(Ni Ka)	1867	445	3	1007	399	Inte	 
+  Sp4(Si Ka)	1308	2697	3	2074	2433	Inte	 
+  Sp4(Mg Ka)	1308	2697	3	2074	2433	Inte	 
+  Sp2(Ca Ka)	1303	904	3	1935	456	Inte	 
+  Sp3(Ti Ka)	1889	1118	3	560	791	Inte	 
+  Sp2(P  Ka)	1303	904	3	1935	456	Inte 
+Peak Position :   Sp1 46384 (-600, 400),  Sp1 32475 (-500, 500),  Sp3 42757 (-300, 250),  Sp5 56880 (-250, 300),  Sp5 48090 (-250, 300),  Sp5 52214 (200, 1.0221),  Sp5 41184 (-250, 300),  Sp4 27744 (-500, 300),  Sp4 38521 (-500, 500),  Sp2 38394 (-300, 250),  Sp3 31426 (-350, 250),  Sp2 70351 (-700, 600) 
+Current Sample Position :   X = -3834 Y = 34921 Z = 493 
+Standard Name :   
+ Na On Jad 
+ Al On Cor 
+ K  On KSp 
+ Cr On Cr 
+ Fe On Fayalite 
+ Mn On Mn 
+ Ni On NiO 
+ Si, Ca On Diopside 
+ Mg On Olivine (St. Johns) 
+ Ti On Rutile 
+ P  On Apatite 
+Standard composition :   
+ Jad = O  : 47.5%, Na : 11.3%, Al : 13.2%, Si : 27.8%, Fe : 0.2% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ KSp = O  : 46.1%, Na : 0.8%, Al : 9.7%, Si : 30.3%, K  : 12.8%, Fe : 0.3% 
+ Cr = Cr : 100.% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Mn = Mn : 100.% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+ Apatite = O  : 38.1%, F  : 3.4%, P  : 18.4%, Cl : 0.4%, Ca : 39.7% 
+Calibration file name :   
+ Na : Jad_Na_Na001.calDat 
+ Al : Cor_Al_Al049.calDat 
+ K  : KSp_K_K032.calDat 
+ Cr : Cr_Cr287.calDat 
+ Fe : Fayalite_Fe281.calDat 
+ Mn : Mn_Mn288.calDat 
+ Ni : NiO_Ni090.calDat 
+ Si, Ca : Diopside_Si_Si_Ca_Ca042.calDat 
+ Mg : Olivine (St. Johns)_Mg_Mg042.calDat 
+ Ti : Rutile_Ti_Ti052.calDat 
+ P  : Apatite_P_P027.calDat 
+Beam Size :  1 µm 
+
+DataSet/Point	Na2O	Al2O3	K2O	Cr2O3	FeO	MnO	NiO	SiO2	MgO	CaO	TiO2	P2O5	Total	X	Y	Z	Comment	Distance (µ)	Point#	Date	
+1 / 1 . 	0.0111	18.7919	0.0022	39.8854	13.6996	0.1738	0.2043	5.3063	24.0414	0.0615	0.1863	0.0000	102.3636	-3834.	34921.	493.	BH22_grain1_profile1_sp	0.	 1	10/11/2014 14:39:10	
+1 / 2 . 	0.0000	24.8964	0.0000	43.8078	14.9492	0.1987	0.1741	0.0979	15.4534	0.0147	0.2404	0.0000	99.8327	-3832.3	34914.8	493.	BH22_grain1_profile1_sp	6.49	 2	10/11/2014 14:44:30	
+1 / 3 . 	0.0070	24.9750	0.0000	43.7157	14.7996	0.1987	0.1614	0.1198	15.4858	0.0025	0.2356	0.0026	99.7036	-3830.5	34908.5	493.	BH22_grain1_profile1_sp	12.98	 3	10/11/2014 14:49:36	
+1 / 4 . 	0.0037	24.9629	0.0000	43.3121	14.7362	0.1890	0.1674	0.1439	15.4264	0.0062	0.2305	0.0000	99.1783	-3828.8	34902.3	493.	BH22_grain1_profile1_sp	19.47	 4	10/11/2014 14:54:45	
+1 / 5 . 	0.0000	24.9852	0.0000	43.8802	14.5567	0.1737	0.1647	0.1192	15.5515	0.0150	0.2390	0.0123	99.6975	-3827.	34896.	493.	BH22_grain1_profile1_sp	25.96	 5	10/11/2014 14:59:53	
+2 / 1 . 		0.0704		0.2956	10.0229	0.1722	0.2754	40.8713	47.1367	0.3722	0.0006	0.0041	99.2215	-3819.	34879.	493.	BH22_grain1_profile1_ol	44.6	 6	10/11/2014 15:05:02	
+2 / 2 . 		0.0731		0.1875	10.3507	0.1856	0.2782	40.8521	46.9697	0.3623	0.0033	0.0082	99.2706	-3814.	34869.8	493.	BH22_grain1_profile1_ol	55.01	 7	10/11/2014 15:17:01	
+2 / 3 . 		0.0779		0.1427	11.0773	0.1923	0.2827	40.7425	46.3625	0.3613	0.0026	0.0049	99.2466	-3809.	34860.5	493.	BH22_grain1_profile1_ol	65.46	 8	10/11/2014 15:28:34	
+2 / 4 . 		0.0758		0.1258	12.2112	0.1886	0.2769	40.5812	45.7022	0.3502	0.0008	0.0057	99.5186	-3804.	34851.3	493.	BH22_grain1_profile1_ol	75.93	 9	10/11/2014 15:40:12	
+2 / 5 . 		0.0722		0.0980	14.4217	0.2219	0.2470	40.1059	44.1072	0.3458	0.0051	0.0077	99.6325	-3799.	34842.	493.	BH22_grain1_profile1_ol	86.41	 10	10/11/2014 15:51:48	

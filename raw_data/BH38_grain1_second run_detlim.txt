@@ -1,0 +1,83 @@
+FileName :   BH38_grain1_second run.qtiDat 
+Signal(s) Used :  Si Ka, Mg Ka, Al Ka, Ti Ka, Fe Ka, Cr Ka, Mn Ka, Ni Ka, P  Ka, Ca Ka 
+Spectromers Conditions :   Sp4 TAP,  Sp4 TAP,  Sp1 LTAP,  Sp2 PET,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp3 LPET,  Sp2 PET 
+Full Spectromers Conditions :   Sp4 TAP(2d= 25.745,K= 0.00218),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp2 PET(2d= 8.75,K= 0.000144) 
+Column Conditions :  Cond 1 : 15keV 100nA  
+Date :  16-Nov-2014 
+User Name :  sx 
+Setup Name :  Mathews_ol_13november2014.qtiSet 
+DataSet Comment :  BH38_grain1_profile1_ol 
+Comment :  BH38_grain1 
+Analysis Date :  14/11/2014 02:48:44 
+Project Name :  Simon Matthews 
+Sample Name :  10November 2014 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp4(Si Ka)	1313	2713	3	2074	2433	Inte	 
+  Sp4(Mg Ka)	1313	2713	3	2074	2433	Inte	 
+  Sp1(Al Ka)	1301	2697	3	2008	2194	Inte	 
+  Sp2(Ti Ka)	1305	910	3	1935	456	Inte	 
+  Sp5(Fe Ka)	1868	445	3	1007	399	Inte	 
+  Sp5(Cr Ka)	1868	445	3	1007	399	Inte	 
+  Sp5(Mn Ka)	1868	445	3	1007	399	Inte	 
+  Sp5(Ni Ka)	1868	445	3	1007	399	Inte	 
+  Sp3(P  Ka)	1890	1124	3	560	791	Inte	 
+  Sp2(Ca Ka)	1305	910	3	1935	456	Inte 
+Peak Position :   Sp4 27744 (-500, 300),  Sp4 38523 (-500, 500),  Sp1 32481 (-500, 500),  Sp2 31420 (-350, 250),  Sp5 48089 (-250, 300),  Sp5 56875 (-250, 300),  Sp5 52204 (200, 1.0221),  Sp5 41185 (-500, 500),  Sp3 70304 (-700, 600),  Sp2 38386 (-300, 250) 
+Current Sample Position :   X = -2443 Y = -25173.36 Z = 432 
+Standard Name :   
+ Si, Ca On Diopside 
+ Mg On Olivine (St. Johns) 
+ Al On Cor 
+ Ti On Rutile 
+ Fe On Fayalite 
+ Cr On Cr 
+ Mn On Mn 
+ Ni On NiO 
+ P  On Apatite 
+Standard composition :   
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Cr = Cr : 100.% 
+ Mn = Mn : 100.% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+ Apatite = O  : 38.1%, F  : 3.4%, P  : 18.4%, Cl : 0.4%, Ca : 39.7% 
+Calibration file name :   
+ Si, Ca : Diopside_Si_Si_Ca_Ca043.calDat 
+ Mg : Olivine (St. Johns)_Mg_Mg043.calDat 
+ Al : Cor_Al_Al050.calDat 
+ Ti : Rutile_Ti_Ti053.calDat 
+ Fe : Fayalite_Fe282.calDat 
+ Cr : Cr_Cr288.calDat 
+ Mn : Mn_Mn290.calDat 
+ Ni : NiO_Ni091.calDat 
+ P  : Apatite_P_P028.calDat 
+Beam Size :  1 µm 
+
+DataSet/Point	K	Si	Mg	Na	Al	Ti	Fe	Cr	Mn	Ni	P	Ca	O	X	Y	Z	Comment	Distance (µ)	Point#	Date	
+1 / 1 . 	164.	169.	278.	158.	132.	146.	659.	718.	381.	533.	100.	163.		-2510.	-25144.	432.	BH38_grain1_profile1_sp	0.	 1	14/11/2014 01:53:15	
+1 / 2 . 	171.	133.	235.	170.	155.	151.	662.	835.	425.	524.	109.	155.		-2503.	-25147.	432.	BH38_grain1_profile1_sp	7.62	 2	14/11/2014 01:58:35	
+1 / 3 . 	167.	142.	234.	167.	156.	152.	667.	809.	392.	524.	103.	163.		-2496.	-25150.	432.	BH38_grain1_profile1_sp	15.23	 3	14/11/2014 02:03:40	
+1 / 4 . 	159.	209.	317.	140.	61.	147.	602.	408.	378.	464.	104.	159.		-2489.	-25153.	432.	BH38_grain1_profile1_sp	22.85	 4	14/11/2014 02:08:46	
+2 / 1 . 		137.	206.		12.	60.	389.	126.	235.	139.	23.	45.		-2479.	-25159.	432.	BH38_grain1_profile1_ol	34.44	 5	14/11/2014 02:13:55	
+2 / 2 . 		137.	206.		12.	61.	385.	126.	230.	138.	23.	45.		-2467.	-25163.8	432.	BH38_grain1_profile1_ol	47.33	 6	14/11/2014 02:25:41	
+2 / 3 . 		138.	207.		12.	60.	383.	125.	238.	140.	23.	45.		-2455.	-25168.6	432.	BH38_grain1_profile1_ol	60.24	 7	14/11/2014 02:37:12	
+2 / 4 . 		137.	207.		12.	61.	386.	125.	230.	138.	23.	45.		-2443.	-25173.4	432.	BH38_grain1_profile1_ol	73.15	 8	14/11/2014 02:48:44	
+2 / 5 . 		136.	208.		12.	60.	391.	125.	231.	137.	23.	45.		-2431.	-25178.1	432.	BH38_grain1_profile1_ol	86.06	 9	14/11/2014 03:00:14	
+2 / 6 . 		137.	206.		12.	60.	384.	126.	237.	140.	23.	45.		-2419.	-25182.9	432.	BH38_grain1_profile1_ol	98.98	 10	14/11/2014 03:11:44	
+2 / 7 . 		139.	207.		12.	60.	401.	126.	235.	138.	23.	45.		-2407.	-25187.7	432.	BH38_grain1_profile1_ol	111.89	 11	14/11/2014 03:23:14	
+2 / 8 . 		136.	203.		12.	61.	396.	123.	233.	138.	23.	45.		-2395.	-25192.5	432.	BH38_grain1_profile1_ol	124.81	 12	14/11/2014 03:34:44	
+2 / 9 . 		137.	208.		12.	60.	401.	124.	240.	139.	23.	44.		-2383.	-25197.3	432.	BH38_grain1_profile1_ol	137.73	 13	14/11/2014 03:46:13	
+2 / 10 . 		137.	207.		12.	60.	386.	126.	230.	137.	23.	45.		-2371.	-25202.1	432.	BH38_grain1_profile1_ol	150.64	 14	14/11/2014 03:57:43	
+2 / 11 . 		137.	205.		12.	60.	390.	124.	228.	138.	23.	45.		-2359.	-25206.9	432.	BH38_grain1_profile1_ol	163.56	 15	14/11/2014 04:09:15	
+2 / 12 . 		137.	208.		12.	60.	381.	126.	233.	139.	23.	45.		-2347.	-25211.6	432.	BH38_grain1_profile1_ol	176.48	 16	14/11/2014 04:20:46	
+2 / 13 . 		138.	207.		12.	60.	384.	124.	233.	138.	23.	45.		-2335.	-25216.4	432.	BH38_grain1_profile1_ol	189.4	 17	14/11/2014 04:32:18	
+2 / 14 . 		138.	207.		12.	60.	381.	125.	234.	139.	23.	45.		-2323.	-25221.2	432.	BH38_grain1_profile1_ol	202.31	 18	14/11/2014 04:43:49	
+2 / 15 . 		138.	205.		12.	60.	387.	124.	235.	138.	23.	45.		-2311.	-25226.	432.	BH38_grain1_profile1_ol	215.23	 19	14/11/2014 04:55:19	
+3 / 1 . 		190.	205.		11.	60.	391.	127.	234.	140.	22.	44.		-2294.	-25238.	435.	BH38_grain1_profile1_ol	235.59	 20	14/11/2014 05:06:53	
+3 / 2 . 		188.	199.		11.	60.	394.	124.	241.	138.	23.	44.		-2279.7	-25242.7	435.	BH38_grain1_profile1_ol	250.59	 21	14/11/2014 05:18:45	
+3 / 3 . 		193.	204.		11.	60.	399.	123.	232.	141.	23.	44.		-2265.3	-25247.3	435.	BH38_grain1_profile1_ol	265.61	 22	14/11/2014 05:30:19	
+3 / 4 . 		183.	197.		11.	60.	414.	126.	237.	139.	23.	44.		-2251.	-25252.	435.	BH38_grain1_profile1_ol	280.63	 23	14/11/2014 05:41:55	
