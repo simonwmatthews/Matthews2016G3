@@ -1,0 +1,84 @@
+FileName :   HBT2_grain6.qtiDat 
+Signal(s) Used :  Na Ka, Al Ka, K  Ka, Cr Ka, Fe Ka, Mn Ka, Ni Ka, Si Ka, Mg Ka, Ca Ka, Ti Ka, P  Ka 
+Spectromers Conditions :   Sp1 LTAP,  Sp1 LTAP,  Sp3 LPET,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp4 TAP,  Sp4 TAP,  Sp2 PET,  Sp3 LPET,  Sp2 PET 
+Full Spectromers Conditions :   Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp2 PET(2d= 8.75,K= 0.000144) 
+Column Conditions :  Cond 1 : 15keV 40nA  
+Date :  10-Nov-2014 
+User Name :  sx 
+Setup Name :  Mathews_sp_7november2014.qtiSet 
+DataSet Comment :  HBT2_grain6_profile1_sp 
+Comment :  HBT2_grain6 
+Analysis Date :  08/11/2014 20:37:01 
+Project Name :  Simon Matthews 
+Sample Name :  7 November 20147 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp1(Na Ka)	1301	2654	3	2008	2194	Inte	 
+  Sp1(Al Ka)	1301	2654	3	2008	2194	Inte	 
+  Sp3(K  Ka)	1892	1127	3	560	791	Inte	 
+  Sp5(Cr Ka)	1867	445	3	1007	399	Inte	 
+  Sp5(Fe Ka)	1867	445	3	1007	399	Inte	 
+  Sp5(Mn Ka)	1870	445	3	1007	399	Inte	 
+  Sp5(Ni Ka)	1867	445	3	1007	399	Inte	 
+  Sp4(Si Ka)	1308	2697	3	2074	2433	Inte	 
+  Sp4(Mg Ka)	1308	2697	3	2074	2433	Inte	 
+  Sp2(Ca Ka)	1303	904	3	1935	456	Inte	 
+  Sp3(Ti Ka)	1889	1118	3	560	791	Inte	 
+  Sp2(P  Ka)	1303	904	3	1935	456	Inte 
+Peak Position :   Sp1 46384 (-600, 400),  Sp1 32475 (-500, 500),  Sp3 42757 (-300, 250),  Sp5 56880 (-250, 300),  Sp5 48090 (-250, 300),  Sp5 52214 (200, 1.0221),  Sp5 41184 (-250, 300),  Sp4 27744 (-500, 300),  Sp4 38521 (-500, 500),  Sp2 38394 (-300, 250),  Sp3 31426 (-350, 250),  Sp2 70351 (-700, 600) 
+Current Sample Position :   X = 8954 Y = -28214 Z = -120 
+Standard Name :   
+ Na On Jad 
+ Al On Cor 
+ K  On KSp 
+ Cr On Cr 
+ Fe On Fayalite 
+ Mn On Mn 
+ Ni On NiO 
+ Si, Ca On Diopside 
+ Mg On Olivine (St. Johns) 
+ Ti On Rutile 
+ P  On Apatite 
+Standard composition :   
+ Jad = O  : 47.5%, Na : 11.3%, Al : 13.2%, Si : 27.8%, Fe : 0.2% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ KSp = O  : 46.1%, Na : 0.8%, Al : 9.7%, Si : 30.3%, K  : 12.8%, Fe : 0.3% 
+ Cr = Cr : 100.% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Mn = Mn : 100.% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+ Apatite = O  : 38.1%, F  : 3.4%, P  : 18.4%, Cl : 0.4%, Ca : 39.7% 
+Calibration file name :   
+ Na : Jad_Na_Na001.calDat 
+ Al : Cor_Al_Al049.calDat 
+ K  : KSp_K_K032.calDat 
+ Cr : Cr_Cr287.calDat 
+ Fe : Fayalite_Fe281.calDat 
+ Mn : Mn_Mn288.calDat 
+ Ni : NiO_Ni090.calDat 
+ Si, Ca : Diopside_Si_Si_Ca_Ca042.calDat 
+ Mg : Olivine (St. Johns)_Mg_Mg042.calDat 
+ Ti : Rutile_Ti_Ti052.calDat 
+ P  : Apatite_P_P027.calDat 
+Beam Size :  1 µm 
+
+DataSet/Point	Na	Al	K	Cr	Fe	Mn	Ni	Si	Mg	Ca	Ti	P	O	X	Y	Z	Comment	Distance (µ)	Point#	Date	
+1 / 1 . 	171.	146.	165.	925.	718.	452.	537.	138.	234.	161.	74.	156.		8954.	-28214.	-120.	HBT2_grain6_profile1_sp	0.	 1	08/11/2014 20:37:01	
+1 / 2 . 	179.	145.	174.	924.	752.	443.	557.	142.	230.	165.	75.	155.		8951.8	-28208.3	-120.	HBT2_grain6_profile1_sp	6.17	 2	08/11/2014 20:42:21	
+1 / 3 . 	178.	147.	162.	875.	758.	441.	548.	141.	233.	159.	74.	162.		8949.5	-28202.5	-120.	HBT2_grain6_profile1_sp	12.35	 3	08/11/2014 20:47:30	
+1 / 4 . 	176.	148.	165.	860.	726.	444.	547.	138.	233.	163.	74.	155.		8947.3	-28196.8	-120.	HBT2_grain6_profile1_sp	18.52	 4	08/11/2014 20:52:37	
+1 / 5 . 	172.	146.	165.	887.	761.	456.	566.	139.	228.	163.	74.	161.		8945.	-28191.	-120.	HBT2_grain6_profile1_sp	24.7	 5	08/11/2014 20:57:44	
+2 / 1 . 		11.		125.	399.	233.	141.	194.	203.	44.	61.	23.		8940.	-28175.	-120.	HBT2_grain6_profile1_ol	41.44	 6	08/11/2014 21:02:53	
+2 / 2 . 		11.		124.	399.	231.	141.	193.	204.	44.	61.	23.		8938.1	-28164.	-120.	HBT2_grain6_profile1_ol	52.47	 7	08/11/2014 21:14:51	
+2 / 3 . 		11.		126.	402.	240.	140.	190.	203.	44.	61.	23.		8936.2	-28153.	-120.	HBT2_grain6_profile1_ol	63.54	 8	08/11/2014 21:26:28	
+2 / 4 . 		11.		125.	413.	241.	143.	191.	203.	44.	61.	23.		8934.3	-28142.	-120.	HBT2_grain6_profile1_ol	74.65	 9	08/11/2014 21:38:04	
+2 / 5 . 		11.		124.	399.	238.	141.	194.	202.	45.	61.	23.		8932.4	-28131.	-120.	HBT2_grain6_profile1_ol	85.76	 10	08/11/2014 21:49:40	
+2 / 6 . 		11.		123.	405.	249.	142.	191.	203.	44.	61.	23.		8930.5	-28120.	-120.	HBT2_grain6_profile1_ol	96.89	 11	08/11/2014 22:01:15	
+2 / 7 . 		11.		124.	403.	236.	141.	193.	202.	44.	61.	23.		8928.6	-28109.	-120.	HBT2_grain6_profile1_ol	108.03	 12	08/11/2014 22:12:49	
+2 / 8 . 		11.		125.	409.	244.	141.	192.	204.	44.	62.	23.		8926.7	-28098.	-120.	HBT2_grain6_profile1_ol	119.17	 13	08/11/2014 22:24:24	
+2 / 9 . 		11.		125.	407.	238.	142.	191.	205.	44.	61.	23.		8924.8	-28087.	-120.	HBT2_grain6_profile1_ol	130.31	 14	08/11/2014 22:35:58	
+2 / 10 . 		11.		124.	405.	235.	141.	192.	205.	44.	61.	23.		8922.9	-28076.	-120.	HBT2_grain6_profile1_ol	141.46	 15	08/11/2014 22:47:32	
+2 / 11 . 		11.		126.	398.	235.	141.	190.	204.	44.	61.	23.		8921.	-28065.	-120.	HBT2_grain6_profile1_ol	152.61	 16	08/11/2014 22:59:08	

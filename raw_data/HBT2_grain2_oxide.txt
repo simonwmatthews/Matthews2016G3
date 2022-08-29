@@ -1,0 +1,80 @@
+FileName :   HBT2_grain2.qtiDat 
+Signal(s) Used :  Na Ka, Al Ka, K  Ka, Cr Ka, Fe Ka, Mn Ka, Ni Ka, Si Ka, Mg Ka, Ca Ka, Ti Ka, P  Ka 
+Spectromers Conditions :   Sp1 LTAP,  Sp1 LTAP,  Sp3 LPET,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp4 TAP,  Sp4 TAP,  Sp2 PET,  Sp3 LPET,  Sp2 PET 
+Full Spectromers Conditions :   Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp2 PET(2d= 8.75,K= 0.000144) 
+Column Conditions :  Cond 1 : 15keV 40nA  
+Date :  10-Nov-2014 
+User Name :  sx 
+Setup Name :  Mathews_sp_7november2014.qtiSet 
+DataSet Comment :  HBT2_grain2_profile1_sp 
+Comment :  HBT2_grain2 
+Analysis Date :  07/11/2014 23:28:23 
+Project Name :  Simon Matthews 
+Sample Name :  7 November 20147 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp1(Na Ka)	1301	2654	3	2008	2194	Inte	 
+  Sp1(Al Ka)	1301	2654	3	2008	2194	Inte	 
+  Sp3(K  Ka)	1892	1127	3	560	791	Inte	 
+  Sp5(Cr Ka)	1867	445	3	1007	399	Inte	 
+  Sp5(Fe Ka)	1867	445	3	1007	399	Inte	 
+  Sp5(Mn Ka)	1870	445	3	1007	399	Inte	 
+  Sp5(Ni Ka)	1867	445	3	1007	399	Inte	 
+  Sp4(Si Ka)	1308	2697	3	2074	2433	Inte	 
+  Sp4(Mg Ka)	1308	2697	3	2074	2433	Inte	 
+  Sp2(Ca Ka)	1303	904	3	1935	456	Inte	 
+  Sp3(Ti Ka)	1889	1118	3	560	791	Inte	 
+  Sp2(P  Ka)	1303	904	3	1935	456	Inte 
+Peak Position :   Sp1 46384 (-600, 400),  Sp1 32475 (-500, 500),  Sp3 42757 (-300, 250),  Sp5 56880 (-250, 300),  Sp5 48090 (-250, 300),  Sp5 52214 (200, 1.0221),  Sp5 41184 (-250, 300),  Sp4 27744 (-500, 300),  Sp4 38521 (-500, 500),  Sp2 38394 (-300, 250),  Sp3 31426 (-350, 250),  Sp2 70351 (-700, 600) 
+Current Sample Position :   X = 7057 Y = -23928 Z = -104 
+Standard Name :   
+ Na On Jad 
+ Al On Cor 
+ K  On KSp 
+ Cr On Cr 
+ Fe On Fayalite 
+ Mn On Mn 
+ Ni On NiO 
+ Si, Ca On Diopside 
+ Mg On Olivine (St. Johns) 
+ Ti On Rutile 
+ P  On Apatite 
+Standard composition :   
+ Jad = O  : 47.5%, Na : 11.3%, Al : 13.2%, Si : 27.8%, Fe : 0.2% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ KSp = O  : 46.1%, Na : 0.8%, Al : 9.7%, Si : 30.3%, K  : 12.8%, Fe : 0.3% 
+ Cr = Cr : 100.% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Mn = Mn : 100.% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+ Apatite = O  : 38.1%, F  : 3.4%, P  : 18.4%, Cl : 0.4%, Ca : 39.7% 
+Calibration file name :   
+ Na : Jad_Na_Na001.calDat 
+ Al : Cor_Al_Al049.calDat 
+ K  : KSp_K_K032.calDat 
+ Cr : Cr_Cr287.calDat 
+ Fe : Fayalite_Fe281.calDat 
+ Mn : Mn_Mn288.calDat 
+ Ni : NiO_Ni090.calDat 
+ Si, Ca : Diopside_Si_Si_Ca_Ca042.calDat 
+ Mg : Olivine (St. Johns)_Mg_Mg042.calDat 
+ Ti : Rutile_Ti_Ti052.calDat 
+ P  : Apatite_P_P027.calDat 
+Beam Size :  1 µm 
+
+DataSet/Point	Na2O	Al2O3	K2O	Cr2O3	FeO	MnO	NiO	SiO2	MgO	CaO	TiO2	P2O5	Total	X	Y	Z	Comment	Distance (µ)	Point#	Date	
+1 / 1 . 	0.0058	29.5580	0.0000	33.9497	19.8851	0.2041	0.2075	0.0952	14.8519	0.0170	0.5839	0.0130	99.3711	7057.	-23928.	-104.	HBT2_grain2_profile1_sp	0.	 1	07/11/2014 23:28:23	
+1 / 2 . 	0.0021	29.4706	0.0023	33.8099	19.9262	0.1673	0.1576	0.1050	15.2246	0.0114	0.5988	0.0147	99.4905	7051.3	-23925.3	-104.	HBT2_grain2_profile1_sp	6.26	 2	07/11/2014 23:33:45	
+1 / 3 . 	0.0074	29.3150	0.0000	33.6306	19.8317	0.2055	0.2228	0.1083	15.1398	0.0214	0.6005	0.0026	99.0857	7045.7	-23922.7	-104.	HBT2_grain2_profile1_sp	12.53	 3	07/11/2014 23:38:54	
+1 / 4 . 	0.0000	29.0211	0.0000	33.9501	19.7174	0.1789	0.1837	0.1144	15.1303	0.0059	0.5830	0.0192	98.9042	7040.	-23920.	-104.	HBT2_grain2_profile1_sp	18.79	 4	07/11/2014 23:44:00	
+2 / 1 . 		0.0600		0.1114	12.3489	0.2150	0.2636	40.5694	46.0323	0.3292	0.0010	0.0035	99.9344	7026.	-23911.	-104.	HBT2_grain2_profile1_ol	35.36	 5	07/11/2014 23:49:12	
+2 / 2 . 		0.0592		0.0725	12.4276	0.2016	0.2705	40.6199	46.0378	0.3301	0.0120	0.0067	100.0377	7015.7	-23908.	-104.	HBT2_grain2_profile1_ol	45.87	 6	08/11/2014 00:01:11	
+2 / 3 . 		0.0583		0.0493	12.3406	0.2071	0.2673	40.6651	45.9234	0.3373	0.0063	0.0054	99.8602	7005.4	-23905.	-104.	HBT2_grain2_profile1_ol	56.47	 7	08/11/2014 00:12:50	
+2 / 4 . 		0.0602		0.0635	12.1904	0.2303	0.2764	40.6532	45.9947	0.3399	0.0050	0.0058	99.8193	6995.1	-23902.	-104.	HBT2_grain2_profile1_ol	67.1	 8	08/11/2014 00:24:27	
+2 / 5 . 		0.0595		0.0489	12.2878	0.2206	0.2719	40.5678	45.9939	0.3347	0.0072	0.0056	99.7978	6984.9	-23899.	-104.	HBT2_grain2_profile1_ol	77.75	 9	08/11/2014 00:36:39	
+2 / 6 . 		0.0584		0.0504	12.2515	0.2131	0.2923	40.6525	46.0353	0.3408	0.0109	0.0044	99.9096	6974.6	-23896.	-104.	HBT2_grain2_profile1_ol	88.42	 10	08/11/2014 00:48:15	
+2 / 7 . 		0.0567		0.0383	12.1587	0.2068	0.2817	40.5764	46.0315	0.3562	0.0087	0.0095	99.7245	6964.3	-23893.	-104.	HBT2_grain2_profile1_ol	99.1	 11	08/11/2014 00:59:50	
+2 / 8 . 		0.0617		0.0450	12.5270	0.2037	0.2672	40.5207	45.6215	0.3695	0.0112	0.0134	99.6408	6954.	-23890.	-104.	HBT2_grain2_profile1_ol	109.79	 12	08/11/2014 01:11:26	
