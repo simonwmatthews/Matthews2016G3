@@ -1,0 +1,85 @@
+FileName :   KS01_grain5.qtiDat 
+Signal(s) Used :  Si Ka, Ca Ka, K  Ka, Ti Ka, Cr Ka, Mn Ka, Fe Ka, Mg Ka, Na Ka, Al Ka, Ni Ka, P  Ka 
+Spectromers Conditions :   Sp4 TAP,  Sp2 PET,  Sp3 LPET,  Sp3 LPET,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp4 TAP,  Sp1 LTAP,  Sp1 LTAP,  Sp5 LIF,  Sp2 PET 
+Full Spectromers Conditions :   Sp4 TAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp2 PET(2d= 8.75,K= 0.000144) 
+Column Conditions :  Cond 1 : 15keV 40nA  
+Date :  27-Oct-2014 
+User Name :  sx 
+Setup Name :  Mathews_sp_24october2014.qtiSet 
+DataSet Comment :  KS01_grain5_sp_whole 
+Comment :  KS01_grain5 
+Analysis Date :  26/10/2014 08:25:55 
+Project Name :  Simon Matthews 
+Sample Name :  23 October 2014 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp4(Si Ka)	1319	2759	3	2074	2433	Inte	 
+  Sp2(Ca Ka)	1307	917	3	1935	456	Inte	 
+  Sp3(K  Ka)	1892	1127	3	560	791	Inte	 
+  Sp3(Ti Ka)	1892	1127	3	560	791	Inte	 
+  Sp5(Cr Ka)	1870	445	3	1007	399	Inte	 
+  Sp5(Mn Ka)	1870	445	3	1007	399	Inte	 
+  Sp5(Fe Ka)	1870	445	3	1007	399	Inte	 
+  Sp4(Mg Ka)	1319	2759	3	2074	2433	Inte	 
+  Sp1(Na Ka)	1304	2683	3	2008	2194	Inte	 
+  Sp1(Al Ka)	1304	2683	3	2008	2194	Inte	 
+  Sp5(Ni Ka)	1870	445	3	1007	399	Inte	 
+  Sp2(P  Ka)	1307	917	3	1935	456	Inte 
+Peak Position :   Sp4 27740 (-500, 300),  Sp2 38384 (-300, 250),  Sp3 42757 (-300, 250),  Sp3 31429 (-350, 250),  Sp5 56869 (-250, 300),  Sp5 52214 (200, 1.0221),  Sp5 48080 (-250, 300),  Sp4 38519 (-500, 500),  Sp1 46380 (-600, 400),  Sp1 32475 (-500, 500),  Sp5 41191 (-250, 300),  Sp2 70348 (-700, 600) 
+Current Sample Position :   X = -14705 Y = -254 Z = -92 
+Standard Name :   
+ Si, Ca On Diopside 
+ K  On KSp 
+ Ti On Rutile 
+ Cr On Cr 
+ Mn On Mn 
+ Fe On Fayalite 
+ Mg On Olivine (St. Johns) 
+ Na On Jad 
+ Al On Cor 
+ Ni On NiO 
+ P  On Apatite 
+Standard composition :   
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ KSp = O  : 46.1%, Na : 0.8%, Al : 9.7%, Si : 30.3%, K  : 12.8%, Fe : 0.3% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+ Cr = Cr : 100.% 
+ Mn = Mn : 100.% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Jad = O  : 47.5%, Na : 11.3%, Al : 13.2%, Si : 27.8%, Fe : 0.2% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+ Apatite = O  : 38.1%, F  : 3.4%, P  : 18.4%, Cl : 0.4%, Ca : 39.7% 
+Calibration file name :   
+ Si, Ca : Diopside_Si_Si_Ca_Ca041.calDat 
+ K  : KSp_K_K032.calDat 
+ Ti : Rutile_Ti_Ti051.calDat 
+ Cr : Cr_Cr286.calDat 
+ Mn : Mn_Mn288.calDat 
+ Fe : Fayalite_Fe280.calDat 
+ Mg : Olivine (St. Johns)_Mg_Mg041.calDat 
+ Na : Jad_Na307.calDat 
+ Al : Cor_Al_Al048.calDat 
+ Ni : NiO_Ni089.calDat 
+ P  : Apatite_P_P026.calDat 
+Beam Size :  1 µm 
+
+DataSet/Point	Si	Ca	K	Ti	Cr	Mn	Fe	Mg	Na	Al	Ni	P	O	X	Y	Z	Comment	Distance (µ)	Point#	Date	
+1 / 1 . 	137.	163.	163.	72.	848.	441.	709.	191.	161.	155.	544.	165.		-14705.	-254.	-92.	KS01_grain5_sp_whole	0.	 1	26/10/2014 08:25:55	
+1 / 2 . 	137.	160.	168.	73.	857.	443.	672.	191.	165.	155.	532.	163.		-14702.	-248.3	-92.	KS01_grain5_sp_whole	6.41	 2	26/10/2014 08:31:07	
+1 / 3 . 	136.	163.	164.	72.	837.	435.	698.	188.	166.	154.	526.	153.		-14699.	-242.7	-92.	KS01_grain5_sp_whole	12.82	 3	26/10/2014 08:36:07	
+1 / 4 . 	151.	154.	163.	72.	782.	428.	707.	205.	163.	147.	520.	158.		-14696.	-237.	-92.	KS01_grain5_sp_whole	19.24	 4	26/10/2014 08:41:08	
+2 / 1 . 	193.	43.		59.	124.	231.	368.	204.		12.	179.	23.		-14691.	-230.	-92.	KS01_grain5_ol	27.78	 5	26/10/2014 08:46:10	
+2 / 2 . 	193.	44.		59.	122.	235.	393.	201.		12.	178.	22.		-14685.8	-220.6	-92.	KS01_grain5_ol	38.52	 6	26/10/2014 08:57:18	
+2 / 3 . 	194.	44.		60.	125.	235.	394.	202.		12.	175.	22.		-14680.7	-211.2	-92.	KS01_grain5_ol	49.26	 7	26/10/2014 09:08:03	
+2 / 4 . 	192.	44.		60.	120.	229.	388.	201.		12.	176.	22.		-14675.5	-201.8	-92.	KS01_grain5_ol	60.	 8	26/10/2014 09:18:46	
+2 / 5 . 	191.	43.		60.	122.	235.	379.	203.		12.	177.	22.		-14670.3	-192.3	-92.	KS01_grain5_ol	70.74	 9	26/10/2014 09:29:32	
+2 / 6 . 	190.	44.		59.	119.	226.	400.	202.		12.	177.	22.		-14665.2	-182.9	-92.	KS01_grain5_ol	81.48	 10	26/10/2014 09:40:17	
+2 / 7 . 	192.	44.		59.	123.	235.	393.	204.		12.	175.	22.		-14660.	-173.5	-92.	KS01_grain5_ol	92.22	 11	26/10/2014 09:51:01	
+2 / 8 . 	193.	43.		60.	125.	230.	389.	203.		12.	181.	22.		-14654.8	-164.1	-92.	KS01_grain5_ol	102.96	 12	26/10/2014 10:01:46	
+2 / 9 . 	191.	43.		60.	122.	235.	387.	203.		12.	180.	22.		-14649.7	-154.7	-92.	KS01_grain5_ol	113.71	 13	26/10/2014 10:12:29	
+2 / 10 . 	194.	44.		60.	123.	233.	395.	205.		12.	177.	22.		-14644.5	-145.3	-92.	KS01_grain5_ol	124.45	 14	26/10/2014 10:23:14	
+2 / 11 . 	194.	43.		60.	122.	231.	389.	204.		12.	179.	23.		-14639.3	-135.8	-92.	KS01_grain5_ol	135.19	 15	26/10/2014 10:33:57	
+2 / 12 . 	191.	43.		59.	121.	232.	406.	202.		12.	176.	22.		-14634.2	-126.4	-92.	KS01_grain5_ol	145.93	 16	26/10/2014 10:44:40	
+2 / 13 . 	192.	43.		60.	123.	227.	395.	203.		12.	181.	22.		-14629.	-117.	-92.	KS01_grain5_ol	156.67	 17	26/10/2014 10:55:23	
