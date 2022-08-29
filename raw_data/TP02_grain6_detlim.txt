@@ -1,0 +1,89 @@
+FileName :   TP02_grain6.qtiDat 
+Signal(s) Used :  Si Ka, Ca Ka, K  Ka, Ti Ka, Cr Ka, Mn Ka, Fe Ka, Mg Ka, Na Ka, Al Ka, Ni Ka, P  Ka 
+Spectromers Conditions :   Sp4 TAP,  Sp2 PET,  Sp3 LPET,  Sp3 LPET,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp4 TAP,  Sp1 LTAP,  Sp1 LTAP,  Sp5 LIF,  Sp2 PET 
+Full Spectromers Conditions :   Sp4 TAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp2 PET(2d= 8.75,K= 0.000144) 
+Column Conditions :  Cond 1 : 15keV 40nA  
+Date :  27-Oct-2014 
+User Name :  sx 
+Setup Name :  Mathews_sp_24october2014.qtiSet 
+DataSet Comment :  slide TP01_grain5_sp_whole 
+Comment :  slide TP01_grain6 
+Analysis Date :  24/10/2014 22:10:37 
+Project Name :  Simon Matthews 
+Sample Name :  23 October 2014 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp4(Si Ka)	1319	2759	3	2074	2433	Inte	 
+  Sp2(Ca Ka)	1307	917	3	1935	456	Inte	 
+  Sp3(K  Ka)	1892	1127	3	560	791	Inte	 
+  Sp3(Ti Ka)	1892	1127	3	560	791	Inte	 
+  Sp5(Cr Ka)	1870	445	3	1007	399	Inte	 
+  Sp5(Mn Ka)	1870	445	3	1007	399	Inte	 
+  Sp5(Fe Ka)	1870	445	3	1007	399	Inte	 
+  Sp4(Mg Ka)	1319	2759	3	2074	2433	Inte	 
+  Sp1(Na Ka)	1304	2683	3	2008	2194	Inte	 
+  Sp1(Al Ka)	1304	2683	3	2008	2194	Inte	 
+  Sp5(Ni Ka)	1870	445	3	1007	399	Inte	 
+  Sp2(P  Ka)	1307	917	3	1935	456	Inte 
+Peak Position :   Sp4 27740 (-500, 300),  Sp2 38384 (-300, 250),  Sp3 42757 (-300, 250),  Sp3 31429 (-350, 250),  Sp5 56869 (-250, 300),  Sp5 52214 (200, 1.0221),  Sp5 48080 (-250, 300),  Sp4 38519 (-500, 500),  Sp1 46380 (-600, 400),  Sp1 32475 (-500, 500),  Sp5 41191 (-250, 300),  Sp2 70348 (-700, 600) 
+Current Sample Position :   X = -1513 Y = -22106 Z = 677 
+Standard Name :   
+ Si, Ca On Diopside 
+ K  On KSp 
+ Ti On Rutile 
+ Cr On Cr 
+ Mn On Mn 
+ Fe On Fayalite 
+ Mg On Olivine (St. Johns) 
+ Na On Jad 
+ Al On Cor 
+ Ni On NiO 
+ P  On Apatite 
+Standard composition :   
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ KSp = O  : 46.1%, Na : 0.8%, Al : 9.7%, Si : 30.3%, K  : 12.8%, Fe : 0.3% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+ Cr = Cr : 100.% 
+ Mn = Mn : 100.% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Jad = O  : 47.5%, Na : 11.3%, Al : 13.2%, Si : 27.8%, Fe : 0.2% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+ Apatite = O  : 38.1%, F  : 3.4%, P  : 18.4%, Cl : 0.4%, Ca : 39.7% 
+Calibration file name :   
+ Si, Ca : Diopside_Si_Si_Ca_Ca041.calDat 
+ K  : KSp_K_K032.calDat 
+ Ti : Rutile_Ti_Ti051.calDat 
+ Cr : Cr_Cr286.calDat 
+ Mn : Mn_Mn288.calDat 
+ Fe : Fayalite_Fe280.calDat 
+ Mg : Olivine (St. Johns)_Mg_Mg041.calDat 
+ Na : Jad_Na307.calDat 
+ Al : Cor_Al_Al048.calDat 
+ Ni : NiO_Ni089.calDat 
+ P  : Apatite_P_P026.calDat 
+Beam Size :  1 µm 
+
+DataSet/Point	Si	Ca	K	Ti	Cr	Mn	Fe	Mg	Na	Al	Ni	P	O	X	Y	Z	Comment	Distance (µ)	Point#	Date	
+1 / 1 . 	141.	158.	167.	73.	908.	458.	778.	179.	183.	145.	544.	153.		-1513.	-22106.	677.	slide TP01_grain5_sp_whole	0.	 1	24/10/2014 22:10:37	
+1 / 2 . 	137.	158.	169.	72.	915.	434.	732.	183.	189.	148.	553.	165.		-1517.5	-22111.4	677.	slide TP01_grain5_sp_whole	7.01	 2	24/10/2014 22:15:49	
+1 / 3 . 	142.	162.	170.	73.	896.	462.	789.	178.	186.	144.	566.	145.		-1522.	-22116.8	677.	slide TP01_grain5_sp_whole	14.02	 3	24/10/2014 22:20:50	
+1 / 4 . 	143.	165.	166.	75.	899.	451.	804.	173.	193.	137.	559.	159.		-1526.5	-22122.1	677.	slide TP01_grain5_sp_whole	21.03	 4	24/10/2014 22:25:50	
+1 / 5 . 	144.	164.	174.	75.	892.	479.	818.	167.	192.	133.	552.	161.		-1531.	-22127.5	677.	slide TP01_grain5_sp_whole	28.04	 5	24/10/2014 22:30:51	
+1 / 6 . 	158.	171.	165.	76.	911.	458.	804.	163.	212.	129.	552.	167.		-1535.5	-22132.9	677.	slide TP01_grain5_sp_whole	35.05	 6	24/10/2014 22:35:54	
+1 / 7 . 	149.	171.	169.	75.	884.	456.	813.	169.	203.	131.	559.	159.		-1540.	-22138.3	677.	slide TP01_grain5_sp_whole	42.06	 7	24/10/2014 22:40:55	
+1 / 8 . 	163.	180.	165.	75.	841.	436.	789.	160.	207.	133.	547.	159.		-1544.5	-22143.6	677.	slide TP01_grain5_sp_whole	49.07	 8	24/10/2014 22:45:57	
+1 / 9 . 	164.	184.	163.	76.	837.	441.	784.	158.	201.	131.	553.	162.		-1549.	-22149.	677.	slide TP01_grain5_sp_whole	56.08	 9	24/10/2014 22:50:58	
+2 / 1 . 	177.	45.		61.	167.	249.	438.	194.		17.	184.	23.		-1551.	-22163.	677.	slide TP01_grain5_ol	68.51	 10	24/10/2014 22:56:00	
+2 / 2 . 	182.	43.		59.	122.	232.	391.	195.		12.	175.	22.		-1559.6	-22169.7	677.	slide TP01_grain5_ol	78.97	 11	24/10/2014 23:07:07	
+2 / 3 . 	187.	44.		60.	121.	232.	396.	203.		12.	179.	22.		-1568.3	-22176.5	677.	slide TP01_grain5_ol	89.55	 12	24/10/2014 23:17:51	
+2 / 4 . 	186.	44.		59.	120.	229.	380.	201.		12.	180.	22.		-1576.9	-22183.2	677.	slide TP01_grain5_ol	100.21	 13	24/10/2014 23:28:36	
+2 / 5 . 	188.	44.		60.	120.	232.	388.	201.		12.	177.	22.		-1585.5	-22189.9	677.	slide TP01_grain5_ol	110.92	 14	24/10/2014 23:39:21	
+2 / 6 . 	187.	44.		59.	125.	230.	387.	201.		12.	180.	22.		-1594.2	-22196.6	677.	slide TP01_grain5_ol	121.68	 15	24/10/2014 23:50:06	
+2 / 7 . 	187.	44.		59.	123.	225.	388.	202.		12.	176.	22.		-1602.8	-22203.4	677.	slide TP01_grain5_ol	132.46	 16	25/10/2014 00:00:50	
+2 / 8 . 	185.	44.		59.	121.	231.	375.	200.		12.	175.	22.		-1611.5	-22210.1	677.	slide TP01_grain5_ol	143.28	 17	25/10/2014 00:11:33	
+2 / 9 . 	186.	44.		59.	125.	233.	387.	201.		12.	180.	22.		-1620.1	-22216.8	677.	slide TP01_grain5_ol	154.11	 18	25/10/2014 00:22:15	
+2 / 10 . 	184.	45.		60.	121.	245.	402.	202.		12.	178.	22.		-1628.7	-22223.5	677.	slide TP01_grain5_ol	164.95	 19	25/10/2014 00:32:59	
+2 / 11 . 	185.	44.		60.	123.	244.	426.	201.		12.	179.	23.		-1637.4	-22230.3	677.	slide TP01_grain5_ol	175.81	 20	25/10/2014 00:43:43	
+2 / 12 . 	186.	45.		61.	122.	236.	465.	193.		12.	186.	23.		-1646.	-22237.	677.	slide TP01_grain5_ol	186.68	 21	25/10/2014 00:54:28	
