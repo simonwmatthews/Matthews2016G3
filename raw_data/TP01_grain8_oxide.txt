@@ -1,0 +1,74 @@
+FileName :   TP01_grain8.qtiDat 
+Signal(s) Used :  Si Ka, Ca Ka, Cr Ka, Mn Ka, Fe Ka, Mg Ka, Al Ka, Ni Ka, P  Ka, Ti Ka 
+Spectromers Conditions :   Sp4 TAP,  Sp2 PET,  Sp5 LIF,  Sp5 LIF,  Sp5 LIF,  Sp4 TAP,  Sp1 LTAP,  Sp5 LIF,  Sp3 LPET,  Sp2 PET 
+Full Spectromers Conditions :   Sp4 TAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp2 PET(2d= 8.75,K= 0.000144) 
+Column Conditions :  Cond 1 : 15keV 100nA  
+Date :  27-Oct-2014 
+User Name :  sx 
+Setup Name :  Mathews_ol_24october2014.qtiSet 
+DataSet Comment :  slide TP01_grain8_ol_p1 
+Comment :  slide_TP01_grain8 
+Analysis Date :  25/10/2014 12:15:20 
+Project Name :  Simon Matthews 
+Sample Name :  23 October 2014 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp4(Si Ka)	1319	2759	3	2074	2433	Inte	 
+  Sp2(Ca Ka)	1307	917	3	1935	456	Inte	 
+  Sp5(Cr Ka)	1870	445	3	1007	399	Inte	 
+  Sp5(Mn Ka)	1870	445	3	1007	399	Inte	 
+  Sp5(Fe Ka)	1870	445	3	1007	399	Inte	 
+  Sp4(Mg Ka)	1319	2759	3	2074	2433	Inte	 
+  Sp1(Al Ka)	1304	2683	3	2008	2194	Inte	 
+  Sp5(Ni Ka)	1870	445	3	1007	399	Inte	 
+  Sp3(P  Ka)	1892	1127	3	560	791	Inte	 
+  Sp2(Ti Ka)	1307	917	3	1935	456	Inte 
+Peak Position :   Sp4 27740 (-500, 300),  Sp2 38384 (-300, 250),  Sp5 56869 (-250, 300),  Sp5 52214 (200, 1.0221),  Sp5 48080 (-250, 300),  Sp4 38519 (-500, 500),  Sp1 32475 (-500, 500),  Sp5 41191 (-250, 300),  Sp3 70321 (-700, 600),  Sp2 31418 (-350, 250) 
+Current Sample Position :   X = -11589 Y = 22046 Z = 538 
+Standard Name :   
+ Si, Ca On Diopside 
+ Cr On Cr 
+ Mn On Mn 
+ Fe On Fayalite 
+ Mg On Olivine (St. Johns) 
+ Al On Cor 
+ Ni On NiO 
+ P  On Apatite 
+ Ti On Rutile 
+Standard composition :   
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ Cr = Cr : 100.% 
+ Mn = Mn : 100.% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+ Apatite = O  : 38.1%, F  : 3.4%, P  : 18.4%, Cl : 0.4%, Ca : 39.7% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+Calibration file name :   
+ Si, Ca : Diopside_Si_Si_Ca_Ca041.calDat 
+ Cr : Cr_Cr286.calDat 
+ Mn : Mn_Mn288.calDat 
+ Fe : Fayalite_Fe280.calDat 
+ Mg : Olivine (St. Johns)_Mg_Mg041.calDat 
+ Al : Cor_Al_Al048.calDat 
+ Ni : NiO_Ni089.calDat 
+ P  : Apatite_P_P026.calDat 
+ Ti : Rutile_Ti_Ti051.calDat 
+Beam Size :  1 µm 
+
+DataSet/Point	SiO2	CaO	Cr2O3	MnO	FeO	MgO	Al2O3	NiO	P2O5	TiO2	K2O	Na2O	Total	X	Y	Z	Comment	Distance (µ)	Point#	Date	
+1 / 1 . 	38.9669	2.4603	0.0894	0.3184	18.8119	36.1822	0.6849	0.1654	0.0159	0.0829			97.7782	-11589.	22046.	538.	slide TP01_grain8_ol_p1	0.	 1	25/10/2014 12:15:20	
+1 / 2 . 	38.4018	0.3902	0.0685	0.2495	15.7015	42.2761	0.1032	0.2468	0.0128	0.0051			97.4554	-11582.5	22036.3	538.	slide TP01_grain8_ol_p1	11.72	 2	25/10/2014 12:26:23	
+1 / 3 . 	39.1441	0.3860	0.0707	0.1978	12.4235	44.9595	0.0596	0.2809	0.0131	0.0038			97.5390	-11576.	22026.5	538.	slide TP01_grain8_ol_p1	23.44	 3	25/10/2014 12:37:06	
+1 / 4 . 	40.1318	0.3891	0.0799	0.1748	10.8090	46.2678	0.0625	0.3024	0.0130	0.0042			98.2346	-11569.5	22016.8	538.	slide TP01_grain8_ol_p1	35.15	 4	25/10/2014 12:47:50	
+1 / 5 . 	39.8109	0.3877	0.1014	0.1716	10.3644	46.5849	0.0643	0.3005	0.0138	0.0033			97.8029	-11563.	22007.	538.	slide TP01_grain8_ol_p1	46.87	 5	25/10/2014 12:58:35	
+2 / 1 . 	7.5121	2.5170	30.1454	0.1870	13.9940	15.5624	27.1379	0.1830	0.0040	0.2469	0.0000	0.0376	97.5272	-11560.	21989.	538.	slide TP01_grain8_sp_whole	63.95	 6	25/10/2014 13:09:20	
+2 / 2 . 	0.1097	0.0466	35.9112	0.1711	15.2773	15.6991	29.4188	0.1993	0.0357	0.2089	0.0000	0.0000	97.0778	-11554.	21983.3	538.	slide TP01_grain8_sp_whole	71.85	 7	25/10/2014 13:14:33	
+2 / 3 . 	0.0905	0.0343	36.3859	0.1744	15.2563	15.5272	29.4274	0.2289	0.0107	0.2031	0.0068	0.0000	97.3454	-11548.	21977.5	538.	slide TP01_grain8_sp_whole	79.83	 8	25/10/2014 13:19:36	
+2 / 4 . 	0.0953	0.0218	36.1368	0.1695	15.3765	15.6636	29.7258	0.2118	0.0087	0.2058	0.0000	0.0000	97.6155	-11542.	21971.8	538.	slide TP01_grain8_sp_whole	87.88	 9	25/10/2014 13:24:37	
+2 / 5 . 	0.1051	0.0310	35.1984	0.1812	15.3000	15.5491	30.7099	0.1948	0.0037	0.1996	0.0015	0.0014	97.4757	-11536.	21966.	538.	slide TP01_grain8_sp_whole	95.96	 10	25/10/2014 13:29:39	
+3 / 1 . 	39.7778	0.3732	0.1923	0.1641	10.2047	46.9619	0.1034	0.3170	0.0100	0.0070			98.1114	-11523.	21952.	538.	slide TP01_grain8_ol_p2	114.86	 11	25/10/2014 13:34:42	
+3 / 2 . 	39.8485	0.3828	0.0885	0.1767	10.0645	47.0722	0.0805	0.3167	0.0141	0.0070			98.0514	-11496.7	21934.7	538.	slide TP01_grain8_ol_p2	144.64	 12	25/10/2014 13:45:49	
+3 / 3 . 	39.6265	0.3728	0.0855	0.1727	9.8967	46.9177	0.0820	0.3167	0.0134	0.0053			97.4894	-11470.3	21917.3	538.	slide TP01_grain8_ol_p2	175.03	 13	25/10/2014 13:56:34	
+3 / 4 . 	39.7009	0.3793	0.0847	0.1822	10.0711	47.1073	0.0822	0.3104	0.0132	0.0004			97.9317	-11444.	21900.	538.	slide TP01_grain8_ol_p2	205.77	 14	25/10/2014 14:07:17	
